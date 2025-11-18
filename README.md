@@ -163,11 +163,21 @@ This section demonstrates practical SQL skills using a structured recipe databas
   <img src="images/recipe_insert_ingredients2.png" width="650"/>
 </div>
 
+4. **Add some amounts of ingredients into “rec_ingredients” table.**  
+
+<div align="center">
+  <img src="images/recipe_insert_rec_ingredients1.png" width="650"/>
+</div>
+
+<div align="center">
+  <img src="images/recipe_insert_rec_ingredients2.png" width="650"/>
+</div>
+
 ---
 
 ## 🔗 Linking Recipes to Ingredients (Join Table)
 <div align="center">
-  <img src="images/recipe_link_table1.png" width="650"/>
+  <img src="images/recipe_link_table1.png" width="500"/>
 </div>
 
 <div align="center">
@@ -178,11 +188,11 @@ This section demonstrates practical SQL skills using a structured recipe databas
 
 ## 📊 Multi-table JOIN Results (Final Output)
 <div align="center">
-  <img src="images/recipe_join_results1.png" width="700"/>
+  <img src="images/recipe_join_results1.png" width="500"/>
 </div>
 
 <div align="center">
-  <img src="images/recipe_join_results2.png" width="700"/>
+  <img src="images/recipe_join_results2.png" width="500"/>
   <p><em>Screenshot: Joined results showing recipe, category, ingredients, amount.</em></p>
 </div>
 
