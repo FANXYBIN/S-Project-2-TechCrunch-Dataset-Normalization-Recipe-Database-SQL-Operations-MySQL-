@@ -132,6 +132,9 @@ This section demonstrates practical SQL skills using a structured recipe databas
 ---
 
 ## 🍝 Adding Recipes & Ingredients
+
+1. **Add “Italian” and “Baking” to “category” table.**  
+
 <div align="center">
   <img src="images/recipe_insert_category1.png" width="650"/>
 </div>
@@ -140,6 +143,8 @@ This section demonstrates practical SQL skills using a structured recipe databas
   <img src="images/recipe_insert_category2.png" width="650"/>
 </div>
 
+2. **Add “Spaghetti” and “Blueberry Muffins” recipes into “recipe_main” table.**  
+
 <div align="center">
   <img src="images/recipe_insert_recipe1.png" width="650"/>
 </div>
@@ -147,6 +152,8 @@ This section demonstrates practical SQL skills using a structured recipe databas
 <div align="center">
   <img src="images/recipe_insert_recipe2.png" width="650"/>
 </div>
+
+3. **Add some ingredients into “ingredients” table.**  
 
 <div align="center">
   <img src="images/recipe_insert_ingredients1.png" width="650"/>
