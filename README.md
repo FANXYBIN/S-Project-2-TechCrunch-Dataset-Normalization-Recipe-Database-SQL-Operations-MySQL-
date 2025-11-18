@@ -176,6 +176,9 @@ This section demonstrates practical SQL skills using a structured recipe databas
 ---
 
 ## 🔗 Linking Recipes to Ingredients (Join Table)
+
+Write only one SQL query that returns all information on only the two new recipes that inserted from all the tables created above.
+
 <div align="center">
   <img src="images/recipe_link_table1.png" width="500"/>
 </div>
@@ -187,6 +190,9 @@ This section demonstrates practical SQL skills using a structured recipe databas
 ---
 
 ## 📊 Multi-table JOIN Results (Final Output)
+
+Write a SELECT query that identifies the recipe name, category name, and ingredient name, and ingredient amount. No other variables should be included.
+
 <div align="center">
   <img src="images/recipe_join_results1.png" width="500"/>
 </div>
